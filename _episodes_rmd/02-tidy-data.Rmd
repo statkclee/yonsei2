@@ -1,0 +1,22 @@
+---
+title: "시계열 데이터"
+teaching: 180
+exercises: 0
+questions:
+- "데이터 사이언스 응용 분야?"
+objectives:
+- "데이터 사이언스를 논한다."
+keypoints:
+- "데이터 사이언스를 논한다."
+source: Rmd
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("01-")
+```
+
+
+## 시계열 데이터 {#time-series-data}
+
+
