@@ -1,0 +1,45 @@
+---
+title: "자연어처리"
+teaching: 180
+exercises: 0
+questions:
+- "텍스트 데이터는 어떻게 처리할까?"
+- "데이터로 텍스트를 어떻게 이해시킬 수 있을까?"
+- "텍스트 데이터를 분석하고 모형을 만든다는 것은 어떤 의미를 갖는가?"
+objectives:
+- "데이터로 텍스트 데이터를 이해한다."
+- "텍스트 데이터를 분석 가능한 자료형태로 바꾸는 과정을 이해한다."
+- "사전에 학습한 시각화 및 모형을 텍스트 데이터에 적용시킨다."
+keypoints:
+- "데이터 사이언스 맥락에서 텍스트를 파악한다."
+- "텍스트 데이터도 시각화 모형개발이 가능함을 이해한다."
+- "텍스트 데이터를 접근하는 방식의 차이점에 대해 알아본다."
+source: Rmd
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("06-")
+```
+
+## 텍스트 기초 {#nlp-basic}
+
+- [데이터 과학을 위한 저작도구, "R 유니코드, 인코딩"](https://statkclee.github.io/ds-authoring/regex-encoding.html)
+
+## 자연어 처리 흐름 [^nlp-workflow] {#nlp-basics-workflow}
+
+[^nlp-workflow]: [텍스트 데이터와 자연어 처리 작업흐름](https://statkclee.github.io/text/nlp-text.html)
+
+<img src="../fig/nlp-workflow.png" alt="자연어 처리 작업흐름" width="77%" />
+
+## 트위터 - `tidytext` + `tidyverse` {#nlp-tidytext}
+
+- [트위터 - tidyverse + tidytext](https://statkclee.github.io/text/nlp-twitter-tidytext.html)
+
+<img src="../fig/nlp-twitter.png" alt="트위터 자연어처리 흐름" width="77%" />
+
+
+
+
+
+
