@@ -1,0 +1,40 @@
+---
+title: "빅데이터 시각화"
+teaching: 180
+exercises: 0
+questions:
+- "왜 데이터를 시각화하는가?"
+- "데이터 시각화에 필수적인 지식은 무엇일까?"
+- "어떻게 데이터 시각화 산출물을 제품화할 수 있을까?"
+objectives:
+- "시각화 기본 기술을 연마한다."
+- "시각화 산출물을 평가하는 안목을 키운다."
+- "픽셀 정보량 극대화하도록 시각화 산출물을 작성한다."
+keypoints:
+- "참된 시각화를 이해한다."
+- "자주 사용되는 시각화 기법을 일별한다."
+- "하이라이트 강조 시각화 방법을 학습니다."
+- "불확실성과 관계를 시각화한다."
+source: Rmd
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("07-")
+```
+
+## 참된 데이터 시각화 {#advanced-viz}
+
+- [데이터 시각화, "정적 시각화 효과 극대화"](https://statkclee.github.io/viz/viz-pixel-information.html)
+- [데이터 시각화, "기념비적인 시각화 역작모음"](https://statkclee.github.io/viz/viz-history.html)
+- [시각화 기법, "세계보건기구(WHO) - 전문시각화"](https://statkclee.github.io/viz/viz_who.html)
+
+## 인터랙티브 시각화 {#advanced-interactive-viz}
+
+- [데이터 시각화 - 인터랙티브, "`plotly` + `ggplot2`"](https://statkclee.github.io/viz/viz-plotly.html)
+- [데이터 시각화 - 인터랙티브, "`rbokeh`"](https://statkclee.github.io/viz/viz-rbokeh.html)
+
+## 빅데이터 시각화 {#advanced-bigdata}
+
+- [빅데이터 시각화 - trelliscope](https://statkclee.github.io/viz/viz-trelliscope.html)
+- [데이터 시각화 - 인터랙티브, "빅데이터 시각화 주식 - trelliscope"](https://statkclee.github.io/finance/finance-trelliscope-advanced.html)
