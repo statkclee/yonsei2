@@ -1,0 +1,22 @@
+---
+title: "제품화"
+teaching: 180
+exercises: 0
+questions:
+- ""
+objectives:
+- ""
+keypoints:
+- ""
+source: Rmd
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("07-")
+```
+
+# 데이터 사이언스 제품
+
+
+
