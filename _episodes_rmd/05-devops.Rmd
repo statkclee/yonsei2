@@ -1,13 +1,19 @@
 ---
-title: "개발환경"
+title: "DevOps - 도커, HPC, 스파크"
 teaching: 180
 exercises: 0
 questions:
-- ""
+- "도커라? 무엇인가?"
+- "HPC는 스파크는? 들어보셨나요?"
+- "DevOps, 클라우드를 설명해 주시겠어요?"
 objectives:
-- ""
+- "DevOps에 대해서 이해한다."
+- "클라우드와 HPC 차이를 설명할 수 있다."
+- "스파크와 autoML을 적재적소에 활용할 수 있다."
 keypoints:
-- ""
+- "특정 클라우드를 잡아서 데이터 사이언스 프로젝트를 추진할 수 있다."
+- "로컬 컴퓨터를 떠나서 구름 위에 데이터 사이언스 작업환경을 구축한다."
+- "기술적 요소를 떠나서 왜 이런 기술이 필요하고 배워야 하는지 설명할 수 있다."
 source: Rmd
 ---
 
@@ -16,5 +22,20 @@ source("../bin/chunk-options.R")
 knitr_fig_path("07-")
 ```
 
-# 개발환경
-
+- [**도커**: 재현가능한 제품개발](http://statkclee.github.io/r-docker/) 
+    - [도커는 무엇이고 왜 사용하나](http://statkclee.github.io/r-docker/01-what-and-why.html)
+    - [도커 실행](http://statkclee.github.io/r-docker/02-Launching-Docker.html)
+    - [팩키지 설치](http://statkclee.github.io/r-docker/03-install-packages.html) 
+    - [도커허브(Dockerhub)](http://statkclee.github.io/r-docker/04-Dockerhub.html)
+    - [도커파일(Dockerfiles)](http://statkclee.github.io/r-docker/05-dockerfiles.html)
+    - [분석결과 공유](http://statkclee.github.io/r-docker/06-Sharing-all-your-analysis.html)
+- [클라우드 컴퓨팅 소개(HPC)](https://statkclee.github.io/cloud-genomics-kr/)    
+    - 왜 클라우드 컴퓨팅인가?
+    - 스스로 인스턴스 구동시키기
+    - 클라우드 로그인
+    - 클라우드 설정 미세 조정하기
+    - 데이터 왕복시키기
+    - 내 작업데이터에 적합한 클라우드는?
+- [빅데이터: 스파크 + autoML](https://statkclee.github.io/bigdata/)    
+    - [시나리오별 클라우드(AWS) 컴퓨팅 자원을 데이터 과학에 활용](https://statkclee.github.io/bigdata/ml-aws-from-pc.html)
+    - [AWS 아파치 스파크 클러스터](https://statkclee.github.io/bigdata/bigdata-local-sparklyr.html)

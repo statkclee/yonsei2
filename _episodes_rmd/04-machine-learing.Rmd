@@ -1,13 +1,20 @@
 ---
-title: "기계학습"
+title: "기계학습 - 예측모형"
 teaching: 180
 exercises: 0
 questions:
-- ""
+- "기계학습과 예측모형은 차이점은 무엇인가?"
+- "예측한다는 것은 무엇인가?"
+- "예측모형은 정말 정확한 것인가?"
+- "예측을 구체화하면, 예측유형에는 어떤 것이 포함될까?"
 objectives:
-- ""
+- "기계학습 예측모형을 이해하고 개발할 수 있다."
+- "기계학습 예측모형개발을 자동화한다."
+- "일반인에게 뿐만 아니라 모형 개발자에게도 어려운 예측모형을 이해한다."
 keypoints:
-- ""
+- "tidymodel 개발환경 변화를 이해한다."
+- "예측모형을 개발하는 것과 이를 활용하는 것의 차이점을 이해한다."
+- "예측모형 개발 전과정을 공학적으로 기술하고 최신 선진 사례를 적용한다."
 source: Rmd
 ---
 
@@ -17,4 +24,27 @@ knitr_fig_path("07-")
 ```
 
 # 기계학습
+
+
+- [전통적인 가내수공업 방식 모형개발 사례 (Regression)](https://statkclee.github.io/ml/ml-modeling-basic.html)
+- [전통방식 모형개발 - 타이타닉 생존 데이터 (Classification)](https://statkclee.github.io/ml/ml-modeling-titanic.html)
+- [통계 모형 시각화](https://statkclee.github.io/statistics/stat-model-visualization.html)
+    - [지도학습모형 &rarr; EDA : 포도주(wine)](https://statkclee.github.io/model/model-eda-wine.html)
+    - [회귀모형 - `purrr` + `trelliscopejs`](https://statkclee.github.io/model/model_purrr_trelliscopejs.html)
+    - [비지도학습 tsne - `mtcars`](https://statkclee.github.io/model/model_tsne_mtcars.html)
+    - [만성 신부전증(Kidney) 예측 - LIME](https://statkclee.github.io/model/model_kidney-lime.html)
+- [tidymodel: `caret` &rarr; `parsnip`](https://statkclee.github.io/model/tidyverse-model.html)
+    - [caret 예측모형 개발](https://statkclee.github.io/model/model-caret-build.html)
+    - [초모수 미세조정(Hyper Parameter Tuning)](https://statkclee.github.io/model/model-hyper-parameter.html)
+- **모형 데이터 전처리 - Feature Engineering(피처 공학)**
+    - [클래스 불균형(Class imbalance)](https://statkclee.github.io/model/model-class-imbalance.html)
+    - [피처 공학 - 선택 혹은 추출](https://statkclee.github.io/model/model-feature-engineering-selection.html)
+    - [피처 공학(Feature Engineering)](https://statkclee.github.io/model/model-feature-engineering.html)
+        - [피처 공학 기법 - 직사각형 데이터프레임](https://statkclee.github.io/model/model-feature-engineering-tech.html)
+    - [피처 공학 - 변수선택 자동화](https://statkclee.github.io/model/model-feature-engineering-automation.html)
+- [어노말리(Anomaly) 탐지](https://statkclee.github.io/model/model-anomaly.html)    
+- [autoML](https://statkclee.github.io/model/model-recipe-h2o-automl.html)
+- [예측모형 가치(Business Value)](https://statkclee.github.io/model/model-business-value.html)
+- [파이썬 + R - 포도주 품질](https://statkclee.github.io/model/model-python-wine.html)
+
 
