@@ -1,5 +1,5 @@
 ---
-title: "[자료구조] 자연어처리"
+title: "[자료구조] NLP - 텍스트 마이닝(R)"
 teaching: 180
 exercises: 0
 questions:
@@ -37,6 +37,8 @@ knitr_fig_path("06-")
 - [트위터 - tidyverse + tidytext](https://statkclee.github.io/text/nlp-twitter-tidytext.html)
 
 <img src="../fig/nlp-twitter.png" alt="트위터 자연어처리 흐름" width="77%" />
+
+## [R 텍스트 마이닝](https://statkclee.github.io/text/)
 
 
 

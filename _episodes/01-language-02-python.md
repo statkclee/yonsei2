@@ -24,4 +24,13 @@ source: Rmd
 
 ## [데이터 사이언스를 위한 소프트웨어 공학](https://statkclee.github.io/sw4ds/)
 
+- **파이썬 자료구조**
+    - [자료구조 - 리스트, 튜플, 집합, 딕셔너리](https://statkclee.github.io/sw4ds/sw4ds-python-data-structure.html)
+    - [반복자(iterator) - 원소 훑기](https://statkclee.github.io/sw4ds/sw4ds-python-iterator.html)
+    - [파이썬 comprehension - 반복자 생성](https://statkclee.github.io/sw4ds/sw4ds-python-comprehension.html)
+    - 넘파이, 판다스
+    - 텐서플로우(tensorflow)
+- 파이썬 함수
+    - [파이썬 함수 - 람다 외](https://statkclee.github.io/sw4ds/sw4ds-python-base.html)
+
 

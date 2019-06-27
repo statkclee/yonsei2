@@ -22,18 +22,15 @@ source: Rmd
 
 
 
-## [R 언어 소개](https://statkclee.github.io/data-science/ds-r-lang.html)
+## 데이터 사이언스 언어 R 
 
-## [R 구문(syntax)](https://statkclee.github.io/data-science/ds-r-tidyeval.html)
-
-## R 자료구조 
-
-- [R 자료구조 - 데이터프레임](https://statkclee.github.io/data-science/ds-data-structure.html)
-- [데이터프레임(tibble)](https://statkclee.github.io/data-science/data-handling-tibble.html)
-- [깔끔한 데이터(tidy data)](https://statkclee.github.io/data-science/data-handling-tidyr.html)
-- [FP 자료구조 - list column](https://statkclee.github.io/parallel-r/r-parallel-fp-ds.html)
-
-## [R 함수형 프로그래밍](https://statkclee.github.io/parallel-r/ds-fp-purrr.html)
-
-## [열이 아닌 행(row) 데이터 조작](https://statkclee.github.io/parallel-r/r-rowwise-wrangling.html)
+- [R 언어 소개](https://statkclee.github.io/data-science/ds-r-lang.html)
+- [R 구문(syntax)](https://statkclee.github.io/data-science/ds-r-tidyeval.html)
+- R 자료구조 
+    - [R 자료구조 - 데이터프레임](https://statkclee.github.io/data-science/ds-data-structure.html)
+    - [데이터프레임(tibble)](https://statkclee.github.io/data-science/data-handling-tibble.html)
+    - [깔끔한 데이터(tidy data)](https://statkclee.github.io/data-science/data-handling-tidyr.html)
+    - [FP 자료구조 - list column](https://statkclee.github.io/parallel-r/r-parallel-fp-ds.html)
+- [R 함수형 프로그래밍](https://statkclee.github.io/parallel-r/ds-fp-purrr.html)
+- [열이 아닌 행(row) 데이터 조작](https://statkclee.github.io/parallel-r/r-rowwise-wrangling.html)
 
