@@ -1,5 +1,5 @@
 ---
-title: "[언어] API 프로그래밍"
+title: "[언어] API 프로그래밍 <br> &race; 10월4일"
 teaching: 180
 exercises: 0
 questions:

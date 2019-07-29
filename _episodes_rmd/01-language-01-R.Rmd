@@ -1,5 +1,5 @@
 ---
-title: "[언어] R"
+title: "[언어] R <br> &race; 9월20일"
 teaching: 180
 exercises: 0
 questions:

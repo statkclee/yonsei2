@@ -1,5 +1,5 @@
 ---
-title: "[언어] 파이썬"
+title: "[언어] 파이썬 <br> &race; 9월27일"
 teaching: 180
 exercises: 0
 questions:
