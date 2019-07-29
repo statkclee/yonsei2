@@ -1,5 +1,5 @@
 ---
-title: "[자료구조] NLP - 텍스트 마이닝(R)"
+title: "[자료구조] NLP - 텍스트 마이닝(R) <br> &race; 11월08일"
 teaching: 180
 exercises: 0
 questions:

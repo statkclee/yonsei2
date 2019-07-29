@@ -1,5 +1,5 @@
 ---
-title: "빅데이터 시각화"
+title: "빅데이터 시각화  <br> &race; 11월22일"
 teaching: 180
 exercises: 0
 questions:

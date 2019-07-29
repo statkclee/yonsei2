@@ -1,5 +1,5 @@
 ---
-title: "[자료구조] NLP - 파이썬"
+title: "[자료구조] NLP - 파이썬 <br> &race; 11월15일"
 teaching: 180
 exercises: 0
 questions:

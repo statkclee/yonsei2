@@ -1,5 +1,5 @@
 ---
-title: "DevOps - 도커, HPC, 스파크"
+title: "DevOps - 도커, HPC, 스파크 <br> &race; 12월06일"
 teaching: 180
 exercises: 0
 questions:

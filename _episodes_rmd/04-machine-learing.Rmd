@@ -1,5 +1,5 @@
 ---
-title: "기계학습 - 예측모형"
+title: "기계학습 - 예측모형 <br> &race; 11월29일"
 teaching: 180
 exercises: 0
 questions:

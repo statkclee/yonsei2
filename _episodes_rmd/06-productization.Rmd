@@ -1,5 +1,5 @@
 ---
-title: "제품화"
+title: "제품화 <br> &race; 12월13일"
 teaching: 180
 exercises: 0
 questions:
