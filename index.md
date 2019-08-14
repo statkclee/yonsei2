@@ -21,3 +21,7 @@ root: .
 > 최근 있었던 [소프트웨어 카펜트리 한림대학교 워크샵](https://statkclee.github.io/2018-10-27-hallym/) 교재를 숙독하면 도움이 많이 될 수 있다.
 > [데이터 사이언스 입문](https://statkclee.github.io/yonsei/)과 달리 중급 이상의 파이썬 이해가 필요하기 때문에 [모두를 위한 파이썬](https://statkclee.github.io/pythonlearn-kr/)을 선행학습해 둘 것을 권장한다.
 {: .prereq}
+
+## 인터랙티브 강의노트
+
+- [9월20일](https://etherpad.net/p/de-2019-09-20) - AWS 특강
