@@ -24,4 +24,5 @@ root: .
 
 ## 인터랙티브 강의노트
 
+- [9월05일](https://etherpad.net/p/de-2019-09-05) - 뽀개기, [열섬(heat island)](https://github.com/shd04121/heat_island_ds_yonsei)
 - [9월20일](https://etherpad.net/p/de-2019-09-20) - AWS 특강
