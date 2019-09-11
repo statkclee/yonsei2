@@ -27,3 +27,10 @@ root: .
 - [9월05일](https://etherpad.net/p/de-2019-09-05) - 뽀개기, [열섬(heat island)](https://github.com/shd04121/heat_island_ds_yonsei)
     - [구글 docs: 9월05일](https://docs.google.com/document/d/13JxRp6Xq4lW33UGr--paF4OBi7etBsOSSDeYQm51km8)
 - [9월20일](https://etherpad.net/p/de-2019-09-20) - AWS 특강
+
+## 특강 안내
+
+- 한림대 디지털 리터러시 특강
+    - 강의자료: [글쓰기는 자동화의 시작 - 데이터 과학의 세계](https://statkclee.github.io/ds-authoring/ds-digital-literacy.html#/) 
+    - 장소: 한림대학교 임베디드 실습실 (대학본부 5층 2519호)
+    - 일시: 2019년 9월 17일 오후 4:30 ~ 6:30
