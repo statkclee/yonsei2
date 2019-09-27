@@ -28,11 +28,12 @@ root: .
     - [구글 docs: 09월05일](https://docs.google.com/document/d/13JxRp6Xq4lW33UGr--paF4OBi7etBsOSSDeYQm51km8)
 - [9월20일](https://etherpad.net/p/de-2019-09-20) - AWS 특강
     - [구글 docs: 9월20일](https://docs.google.com/document/d/1GfpdQ0A9_d1ICFeutBO2nS6FuM0MeJ5nbCI1rgeEfaQ/edit?usp=sharing)
-
+- [9월27일](https://docs.google.com/document/d/18XEUkLKgGpYT1UwA1-9BdWHyP4ySu3_rBzDg4fkBb5c/edit?usp=sharing)
 
 ## 특강 안내
 
 - 한림대 디지털 리터러시 특강
     - 강의자료: [글쓰기는 자동화의 시작 - 데이터 과학의 세계](https://statkclee.github.io/ds-authoring/ds-digital-literacy.html#/) 
-    - 장소: 한림대학교 임베디드 실습실 (대학본부 5층 2519호)
-    - 일시: 2019년 9월 17일 오후 4:30 ~ 6:30
+    - 장소 및 일시: 한림대학교 임베디드 실습실 (대학본부 5층 2519호), 2019년 9월 17일 오후 4:30 ~ 6:30
+- 혁신성장 일자리 위원회 기획토론회: [4차 산업혁명과 대한민국 혁신성장 활로모색](https://statkclee.github.io/ds-authoring/ds-4th-ir.html)
+    -  일시 및 장소: 2019. 10. 07(월) 14:00 ~ 16:00, 국회의원회관 제8간담회실
