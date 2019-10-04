@@ -32,6 +32,7 @@ root: .
 - SK C&C 문용준 부장님 특강 (10월 11일)
     - "실제 기업에 적용되는 인공지능"
     - "하나는 비대면 채널에 인공지능 적용"
+- 슬랙 채널: [Software Engineering for Data Science](https://appstat.slack.com)
 
 ## 특강 안내
 
