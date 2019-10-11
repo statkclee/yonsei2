@@ -30,8 +30,8 @@ root: .
     - [구글 docs: 9월20일](https://docs.google.com/document/d/1GfpdQ0A9_d1ICFeutBO2nS6FuM0MeJ5nbCI1rgeEfaQ/edit?usp=sharing)
 - [9월27일](https://docs.google.com/document/d/18XEUkLKgGpYT1UwA1-9BdWHyP4ySu3_rBzDg4fkBb5c/edit?usp=sharing)
 - SK C&C 문용준 부장님 특강 (10월 11일)
-    - "실제 기업에 적용되는 인공지능"
-    - "하나는 비대면 채널에 인공지능 적용"
+    - "실제 기업에 적용되는 인공지능" &rarr; `numpy`
+    - "하나는 비대면 채널에 인공지능 적용" &rarr; `pandas`
 - 슬랙 채널: [Software Engineering for Data Science](https://appstat.slack.com)
 
 ## 특강 안내
