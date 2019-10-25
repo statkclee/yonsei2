@@ -33,6 +33,7 @@ root: .
     - "실제 기업에 적용되는 인공지능" &rarr; `numpy`
     - "하나는 비대면 채널에 인공지능 적용" &rarr; `pandas`
 - 슬랙 채널: [Software Engineering for Data Science](https://appstat.slack.com)
+- [10월25일](https://etherpad.net/p/yonsei-20191025) - 중간고사
 
 ## 특강 안내
 
