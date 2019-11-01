@@ -34,6 +34,7 @@ root: .
     - "하나는 비대면 채널에 인공지능 적용" &rarr; `pandas`
 - 슬랙 채널: [Software Engineering for Data Science](https://appstat.slack.com)
 - [10월25일](https://etherpad.net/p/yonsei-20191025) - 중간고사
+- [11월04일](https://etherpad.net/p/yonsei-20191101)
 
 ## 특강 안내
 
@@ -42,3 +43,9 @@ root: .
     - 장소 및 일시: 한림대학교 임베디드 실습실 (대학본부 5층 2519호), 2019년 9월 17일 오후 4:30 ~ 6:30
 - 혁신성장 일자리 위원회 기획토론회: [4차 산업혁명과 대한민국 혁신성장 활로모색](https://statkclee.github.io/ds-authoring/ds-4th-ir.html)
     -  일시 및 장소: 2019. 10. 07(월) 14:00 ~ 16:00, 국회의원회관 제8간담회실
+- 2019 소프트웨어(SW) 정보교육 담당 교원 대상 연수: [데이터 과학 시대 재현가능한 글쓰기](https://statkclee.github.io/ds-authoring/ds-kofac-writing.html#/)
+    -  일시 및 장소: 한국과학창의재단, 11월 9일, 대전 인터시티 호텔
+- [~~로봇~~ 자동화가 빼앗는 일자리 그리고 나](https://statkclee.github.io/ds-authoring/ds-bundang-2019.html)
+    -  일시 및 장소: 분당 서현 청소년 수련관, 12월 4일(수) 10:00 ~
+    
+    
