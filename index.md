@@ -47,5 +47,13 @@ root: .
     -  일시 및 장소: 한국과학창의재단, 11월 9일, 대전 인터시티 호텔
 - [~~로봇~~ 자동화가 빼앗는 일자리 그리고 나](https://statkclee.github.io/ds-authoring/ds-bundang-2019.html)
     -  일시 및 장소: 분당 서현 청소년 수련관, 12월 4일(수) 10:00 ~
-    
+
+## 프로젝트
+
+- [](): [주용우](https://github.com/whoareyouwhoami), [박지원](https://github.com/jiwon12-31/), [윤정하](https://github.com/dial0116), [정희영](https://github.com/GMUprogrammer)
+- [](): [](), [](), [](), []()
+- [](): [](), [](), [](), []()
+- [](): [](), [](), [](), []()
+
+
     
