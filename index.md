@@ -34,7 +34,9 @@ root: .
     - "하나는 비대면 채널에 인공지능 적용" &rarr; `pandas`
 - 슬랙 채널: [Software Engineering for Data Science](https://appstat.slack.com)
 - [10월25일](https://etherpad.net/p/yonsei-20191025) - 중간고사
-- [11월04일](https://etherpad.net/p/yonsei-20191101)
+- [11월01일](https://etherpad.net/p/yonsei-20191101)
+- [11월08일](https://docs.google.com/document/d/14-t2dHqXpK1jabaDECU_vB30PsrqptZ48PLNIB3enl8/edit?usp=sharing)
+
 
 ## 특강 안내
 
