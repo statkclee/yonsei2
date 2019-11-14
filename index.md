@@ -36,6 +36,7 @@ root: .
 - [10월25일](https://etherpad.net/p/yonsei-20191025) - 중간고사
 - [11월01일](https://etherpad.net/p/yonsei-20191101)
 - [11월08일](https://docs.google.com/document/d/14-t2dHqXpK1jabaDECU_vB30PsrqptZ48PLNIB3enl8/edit?usp=sharing)
+- [11월15일](https://docs.google.com/document/d/1-L_KSQ1bfeehn2VeuY3jvbZW0AxTd7-AH1wkmNfSDGc/edit?usp=sharing)
 
 
 ## 특강 안내
