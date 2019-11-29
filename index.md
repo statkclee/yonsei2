@@ -38,7 +38,7 @@ root: .
 - [11월08일](https://docs.google.com/document/d/14-t2dHqXpK1jabaDECU_vB30PsrqptZ48PLNIB3enl8/edit?usp=sharing)
 - [11월15일](https://docs.google.com/document/d/1-L_KSQ1bfeehn2VeuY3jvbZW0AxTd7-AH1wkmNfSDGc/edit?usp=sharing)
 - [11월22일](https://docs.google.com/document/d/1Me2FYSRH_tLD6y0GZZTf4OTZixpIexn_YFWZmV0x9Ag/edit)
-- [11월29일]()
+- [11월29일](https://docs.google.com/document/d/19FAxIJedgSM0YG-H782D20MbaRSCXQuTMCWQgnbeU9Q/edit)
 - [12월06일]()
 - [12월13일]() - 기말고사
 
