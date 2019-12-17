@@ -57,8 +57,12 @@ root: .
 ## 프로젝트
 
 - [11대 0](https://github.com/whoareyouwhoami/ProjectTellus): [주용우](https://github.com/whoareyouwhoami), [박지원](https://github.com/jiwon12-31/), [윤정하](https://github.com/dial0116), [정희영](https://github.com/jojo-kr/)
+    - [https://www.kickhelpers.com/](https://www.kickhelpers.com/)
 - [연세투어](https://github.com/yonseijaewon/yonsei-tour): [권예린](https://github.com/yerinKwon), [이재현](https://github.com/leequant761), [김성진](https://github.com/ZachKim-fromKorea), [허재원](https://github.com/yonseijaewon)
+    - [https://yonseitour.shinyapps.io/shiny_app/](https://yonseitour.shinyapps.io/shiny_app/)
 - [4달러](https://github.com/lhmlhm1111/Data_GongHak/): [이학민](https://github.com/lhmlhm1111), [최호식](https://github.com/ghos0905), [김호성](https://github.com/dsrla123), [이진원](https://github.com/jinwon1)
-- [서울시 축제 대백과](https://github.com/HGmin1159/Seoul_Festival): [민형규](https://github.com/HGmin1159), [정민지](https://github.com/MINNJI), [박상우](https://github.com/glassduck), [최호경](https://github.com/dollhy)
+    - [https://dsrla123.github.io/data_engineering/1234.html](https://dsrla123.github.io/data_engineering/1234.html)
+- [서울시 축제 대백과](https://github.com/HGmin1159/Seoul_Festival): [민형규](https://github.com/HGmin1159), [정민지](https://github.com/MINNJI), [박상우](https://github.com/glassduck), [최호경](https://github.com/HokyeongChoi)
+    - [https://seoul-festival.now.sh/](https://seoul-festival.now.sh/)
 
     
